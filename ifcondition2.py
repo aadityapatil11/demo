@@ -1,4 +1,4 @@
-a=int(input())
+a=int(input("entert your name : "))
 if a%2==0:
     print("your number is divisible by 2")
 else :
